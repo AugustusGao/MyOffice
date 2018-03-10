@@ -33,7 +33,7 @@
 ÐÂÏûÏ¢<a href="../Message/MailBox/MailBox.aspx" target="mainFrame"><img src="../Images/new.gif" runat="server" style="height: 11px; border-width: 0px;" alt="" 
 
 id="imgNewMessage" /></a>
-                    <asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick" Interval="1000" ></asp:Timer>
+                    <asp:Timer ID="Timer1" runat="server" OnTick="Timer1_Tick" Interval="10000000" ></asp:Timer>
                             </ContentTemplate>
                            
                          </asp:UpdatePanel>

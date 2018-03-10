@@ -1,7 +1,0 @@
-bin\Debug\MyOfficeDAL.dll
-bin\Debug\MyOfficeDAL.pdb
-bin\Debug\MyOfficeModels.dll
-bin\Debug\MyOfficeModels.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\MyOfficeDAL.dll
-obj\Debug\MyOfficeDAL.pdb
