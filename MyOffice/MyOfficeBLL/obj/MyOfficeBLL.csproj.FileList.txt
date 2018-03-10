@@ -1,0 +1,9 @@
+bin\Debug\MyOfficeBLL.dll
+bin\Debug\MyOfficeBLL.pdb
+bin\Debug\MyOfficeDAL.dll
+bin\Debug\MyOfficeModels.dll
+bin\Debug\MyOfficeModels.pdb
+bin\Debug\MyOfficeDAL.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyOfficeBLL.dll
+obj\Debug\MyOfficeBLL.pdb

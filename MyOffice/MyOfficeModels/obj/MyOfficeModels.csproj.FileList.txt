@@ -1,0 +1,5 @@
+bin\Debug\MyOfficeModels.dll
+bin\Debug\MyOfficeModels.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyOfficeModels.dll
+obj\Debug\MyOfficeModels.pdb

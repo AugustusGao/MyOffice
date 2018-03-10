@@ -1,0 +1,8 @@
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\bin\Release\MyOfficeDAL.dll
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\bin\Release\MyOfficeDAL.pdb
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\bin\Release\MyOfficeModels.dll
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\bin\Release\MyOfficeModels.pdb
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\obj\Release\MyOfficeDAL.csprojResolveAssemblyReference.cache
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\obj\Release\MyOfficeDAL.csproj.CoreCompileInputs.cache
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\obj\Release\MyOfficeDAL.dll
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeDAL\obj\Release\MyOfficeDAL.pdb

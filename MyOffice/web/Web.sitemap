@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title="当前位置"  description="">
+      <siteMapNode url="~/PersonManage/BranchManage.aspx" title="机构管理"  description="" />
+      <siteMapNode url="~/PersonManage/DepartManage.aspx" title="部门管理"  description="" />
+      <siteMapNode url="~/SysManage/UserManage.aspx" title="用户管理"  description="" />
+      <siteMapNode url="~/SysManage/CreateUser.aspx" title="保存用户信息"  description="" />
+      <siteMapNode url="~/ScheduleManage/PersonNote/PersonNote.aspx" title="我的便签"  description="" />
+      <siteMapNode url="~/ManualSign/ManualSign.aspx" title="员工签到、签退"  description="" />
+      <siteMapNode url="~/ManualSign/Search/ManualSignSearch.aspx" title="员工考勤历史记录查询"  description="" />
+      <siteMapNode url="~/ManualSign/SignStatistic.aspx" title="员工考勤统计"  description="" />
+      <siteMapNode url="~/ScheduleManage/PersonSchedule/PersonSchedule.aspx" title="日程管理"  description="" />
+      <siteMapNode url="~/ScheduleManage/DepartSchedule/DepartSchedule.aspx" title="部门日程"  description="" />
+      <siteMapNode url="~/File/RecycleBin.aspx" title="回收站"  description="" />
+      <siteMapNode url="~/File/FileManager/FileSearch.aspx" title="文件搜索"  description="" />
+      <siteMapNode url="~/Message/MessageManage/MessageManage.aspx" title="消息管理"  description="" />
+      <siteMapNode url="~/SysManage/Log/LoginLog.aspx" title="登录日志"  description="" />
+      <siteMapNode url="~/SysManage/Log/OperateLog.aspx" title="操作日志"  description="" />
+      <siteMapNode url="~/SysManage/MenuAdjust.aspx" title="菜单排序"  description="" />
+      <siteMapNode url="~/ManualSign/Search/SignStatistic.aspx" title="员工考勤统计"  description="" />
+	</siteMapNode>
+</siteMap>

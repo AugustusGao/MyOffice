@@ -1,0 +1,91 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A39D65F4-19B0-4F06-9699-1E446C858054}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyOffice.BLL</RootNamespace>
+    <AssemblyName>MyOfficeBLL</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BranchManager.cs" />
+    <Compile Include="DepartInfoManager.cs" />
+    <Compile Include="FileInfoManager.cs" />
+    <Compile Include="FileTypeManager.cs" />
+    <Compile Include="LoginLogManager.cs" />
+    <Compile Include="ManualSignManager.cs" />
+    <Compile Include="MeetingManager.cs" />
+    <Compile Include="MessageManager.cs" />
+    <Compile Include="MessageToUserManager.cs" />
+    <Compile Include="MessageTypeManager.cs" />
+    <Compile Include="MyNoteManager.cs" />
+    <Compile Include="OperateLogManager.cs" />
+    <Compile Include="PreContractManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadCommonMessageManager.cs" />
+    <Compile Include="RoleManager.cs" />
+    <Compile Include="RoleRightManager.cs" />
+    <Compile Include="ScheduleManager.cs" />
+    <Compile Include="SysFunManager.cs" />
+    <Compile Include="UserManager.cs" />
+    <Compile Include="UserStateManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyOfficeDAL\MyOfficeDAL.csproj">
+      <Project>{00341664-F781-41FD-B9E2-CCB865F7C3C1}</Project>
+      <Name>MyOfficeDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyOfficeModels\MyOfficeModels.csproj">
+      <Project>{90C0F4C2-DD71-4674-B85A-A6298A9FC34C}</Project>
+      <Name>MyOfficeModels</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

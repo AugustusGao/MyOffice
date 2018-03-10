@@ -1,0 +1,5 @@
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeModels\bin\Release\MyOfficeModels.dll
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeModels\bin\Release\MyOfficeModels.pdb
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeModels\obj\Release\MyOfficeModels.csproj.CoreCompileInputs.cache
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeModels\obj\Release\MyOfficeModels.dll
+E:\LocalProject\OA1\201132520393961\OA\MyOffice\MyOfficeModels\obj\Release\MyOfficeModels.pdb
